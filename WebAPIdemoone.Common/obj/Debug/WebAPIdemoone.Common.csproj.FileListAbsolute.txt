@@ -1,0 +1,5 @@
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Common\bin\Debug\WebAPIdemoone.Common.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Common\bin\Debug\WebAPIdemoone.Common.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Common\obj\Debug\WebAPIdemoone.Common.csproj.CoreCompileInputs.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Common\obj\Debug\WebAPIdemoone.Common.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Common\obj\Debug\WebAPIdemoone.Common.pdb

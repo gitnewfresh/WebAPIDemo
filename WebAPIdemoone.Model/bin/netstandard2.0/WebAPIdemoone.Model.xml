@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPIdemoone.Model</name>
+    </assembly>
+    <members>
+        <member name="T:WebAPIdemoone.Model.BaseRequest">
+            <summary>
+            请求基类
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.BaseRequest.Skip">
+            <summary>
+            跳过的记录数
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.BaseRequest.Take">
+            <summary>
+            取的记录条数
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.BaseRequest.OrderBy">
+            <summary>
+            排序字段asc
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.BaseRequest.OrderByDesc">
+            <summary>
+            排序字段desc
+            </summary>
+        </member>
+        <member name="T:WebAPIdemoone.Model.MessageModel`1">
+            <summary>
+            通用信息返回类
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:WebAPIdemoone.Model.MessageModel`1.status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.MessageModel`1.success">
+            <summary>
+            操作是否成功
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.MessageModel`1.msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.MessageModel`1.response">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="T:WebAPIdemoone.Model.Models.Pay">
+            <summary>
+            费用项表
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Pay.id">
+            <summary>
+            费用项Id
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Pay.Type">
+            <summary>
+            费用项类型
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Pay.Explain">
+            <summary>
+            费用项类型说明
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Pay.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="T:WebAPIdemoone.Model.Models.Student">
+            <summary>
+            学生表
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Id">
+            <summary>
+            自增ID
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.StuNo">
+            <summary>
+            学号
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Class">
+            <summary>
+            班级
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Dormitory">
+            <summary>
+            学生宿舍
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.IDCard">
+            <summary>
+            身份证
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.Student.Address">
+            <summary>
+            家庭住址
+            </summary>
+        </member>
+        <member name="T:WebAPIdemoone.Model.Models.StudentPay">
+            <summary>
+            学生缴费表
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.StudentPay.PayId">
+            <summary>
+            费用项id
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.StudentPay.StuNo">
+            <summary>
+            学号
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.StudentPay.Money">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.Models.StudentPay.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.PageModel`1.pgae">
+            <summary>
+            当前页标
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.PageModel`1.pageCount">
+            <summary>
+            总页数
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.PageModel`1.dataCount">
+            <summary>
+            数据总数
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.PageModel`1.PageSize">
+            <summary>
+            每页大小
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.PageModel`1.data">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="F:WebAPIdemoone.Model.ResponseEnum.NoPermissions">
+            <summary>
+            无权限
+            </summary>
+        </member>
+        <member name="F:WebAPIdemoone.Model.ResponseEnum.NoFound">
+            <summary>
+            找不到指定的资源
+            </summary>
+        </member>
+        <member name="F:WebAPIdemoone.Model.ResponseEnum.ServerError">
+            <summary>
+            找不到指定资源
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.StudentViewModel.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.StudentViewModel.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.StudentViewModel.TelePhone">
+            <summary>
+            电话号码
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.StudentViewModel.StudentNo">
+            <summary>
+            学号
+            </summary>
+        </member>
+        <member name="P:WebAPIdemoone.Model.StudentViewModel.Class">
+            <summary>
+            班级
+            </summary>
+        </member>
+    </members>
+</doc>

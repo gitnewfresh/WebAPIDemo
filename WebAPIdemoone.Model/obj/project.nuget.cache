@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1Twt7DJhAJcKMUO9mjcOKDdXuJw7Npa6iQrAMMtcn9xnAb1GypGKp3ZNceAXNO0HFda+SdLYN6anlhLC7QTGQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyCode\\WebAPIdemoone\\WebAPIdemoone.Model\\WebAPIdemoone.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlsugar\\5.0.0.15\\sqlsugar.5.0.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETStandard,Version=v2.0”还原包“sqlSugar 5.0.0.15”。此包可能与项目不完全兼容。",
+      "libraryId": "sqlSugar",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

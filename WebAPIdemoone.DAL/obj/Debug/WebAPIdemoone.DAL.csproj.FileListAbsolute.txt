@@ -1,0 +1,15 @@
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.DAL.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.DAL.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\SqlSugar.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Common.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Model.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Interface.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Common.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Model.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Interface.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\obj\Debug\WebAPIdemoone.DAL.csprojAssemblyReference.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\obj\Debug\WebAPIdemoone.DAL.csproj.CoreCompileInputs.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\obj\Debug\WebAPIdemoone.DAL.csproj.CopyComplete
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\obj\Debug\WebAPIdemoone.DAL.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\obj\Debug\WebAPIdemoone.DAL.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.DAL\bin\Debug\WebAPIdemoone.Model.xml

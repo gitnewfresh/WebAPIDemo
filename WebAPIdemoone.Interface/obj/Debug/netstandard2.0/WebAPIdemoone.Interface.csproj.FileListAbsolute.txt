@@ -1,0 +1,9 @@
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\bin\Debug\netstandard2.0\WebAPIdemoone.Interface.deps.json
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\bin\Debug\netstandard2.0\WebAPIdemoone.Interface.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\bin\Debug\netstandard2.0\WebAPIdemoone.Interface.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.csprojAssemblyReference.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.AssemblyInfoInputs.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.AssemblyInfo.cs
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.csproj.CoreCompileInputs.cache
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.dll
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.Interface\obj\Debug\netstandard2.0\WebAPIdemoone.Interface.pdb
