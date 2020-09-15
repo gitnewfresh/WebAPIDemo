@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIdemoone.Common", "WebAPIdemoone.Common\WebAPIdemoone.Common.csproj", "{E44D0C9D-B654-464E-B314-07C71E7A22EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FrameWork", "API.FrameWork\API.FrameWork.csproj", "{4CB82993-6580-4C10-8163-EC7B912FC7C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E44D0C9D-B654-464E-B314-07C71E7A22EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E44D0C9D-B654-464E-B314-07C71E7A22EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E44D0C9D-B654-464E-B314-07C71E7A22EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB82993-6580-4C10-8163-EC7B912FC7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB82993-6580-4C10-8163-EC7B912FC7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB82993-6580-4C10-8163-EC7B912FC7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB82993-6580-4C10-8163-EC7B912FC7C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

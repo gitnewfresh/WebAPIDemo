@@ -42,7 +42,7 @@ namespace By56.API.TransitReport.APIBehand.Common.swagger
         /// <returns>所有控制器描述</returns>
         public static ConcurrentDictionary<string, string> GetControllerDesc()
         {
-            string xmlpath = string.Format("{0}/bin/By56.API.TransitReport.APIBehand.XML", System.AppDomain.CurrentDomain.BaseDirectory);
+            string xmlpath = string.Format("{0}/bin/WebAPIdemoone.XML", System.AppDomain.CurrentDomain.BaseDirectory);
             ConcurrentDictionary<string, string> controllerDescDict = new ConcurrentDictionary<string, string>();
             if (File.Exists(xmlpath))
             {

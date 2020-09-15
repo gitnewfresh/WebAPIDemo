@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using System.Web.Mvc;
+using System.Web.Http;
+
 using WebAPIdemoone.BLL;
 using WebAPIdemoone.Model;
 using WebAPIdemoone.Model.Models;
@@ -12,17 +13,11 @@ namespace WebAPIdemoone.Controllers
     /// <summary>
     /// 学生
     /// </summary>
-    public class StudentController : Controller
+    public class StudentController : ApiController
     {
 
         StudentBLL StudentBLL = new StudentBLL();
-        // GET: Student
-        public BaseResponseList<StudentViewModel> GetStudentInfo()
-        {
-
-            return null;
-        }
-
+     
         /// <summary>
         /// 缴费
         /// </summary>
@@ -30,6 +25,7 @@ namespace WebAPIdemoone.Controllers
         /// <param name="costId">费用项ID</param>
         /// <param name="stuNo">学号</param>
         /// <returns></returns>
+       [HttpPost]
         public MessageModel<bool> Pay(int cost,int costId, string stuNo)
         {
 
@@ -43,12 +39,13 @@ namespace WebAPIdemoone.Controllers
         /// </summary>
         /// <param name="studentViewModel"></param>
         /// <returns></returns>
-         public PageModel<Student>Query(StudentViewModel studentViewModel,int page,int size)
-         {
+        [HttpPost]
+        public PageModel<Student>Query(StudentViewModel studentViewModel,int page,int size)
+        {
             int countCount = 0;
             var list = StudentBLL.QueyPageList(studentViewModel, countCount, page, size);
             return new PageModel<Student>() { data = list, dataCount = countCount };
 
-         }
+        }
     }
 }

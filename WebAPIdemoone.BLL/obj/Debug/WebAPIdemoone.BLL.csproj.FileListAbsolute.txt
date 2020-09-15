@@ -8,10 +8,10 @@ D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Interface.dll
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Common.pdb
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.DAL.pdb
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Model.pdb
+D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Model.xml
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Interface.pdb
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\obj\Debug\WebAPIdemoone.BLL.csprojAssemblyReference.cache
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\obj\Debug\WebAPIdemoone.BLL.csproj.CoreCompileInputs.cache
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\obj\Debug\WebAPIdemoone.BLL.csproj.CopyComplete
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\obj\Debug\WebAPIdemoone.BLL.dll
 D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\obj\Debug\WebAPIdemoone.BLL.pdb
-D:\MyCode\WebAPIdemoone\WebAPIdemoone.BLL\bin\Debug\WebAPIdemoone.Model.xml

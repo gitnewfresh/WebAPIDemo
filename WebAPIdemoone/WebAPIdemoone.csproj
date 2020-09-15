@@ -34,7 +34,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>App_Data\WebAPIdemoone.xml</DocumentationFile>
+    <DocumentationFile>bin\WebAPIdemoone.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -259,6 +259,10 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\API.FrameWork\API.FrameWork.csproj">
+      <Project>{4CB82993-6580-4C10-8163-EC7B912FC7C9}</Project>
+      <Name>API.FrameWork</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebAPIdemoone.BLL\WebAPIdemoone.BLL.csproj">
       <Project>{A2E86BB6-CE62-4BD0-9FE0-A61BA7FC96FF}</Project>
       <Name>WebAPIdemoone.BLL</Name>

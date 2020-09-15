@@ -5,10 +5,10 @@ D:\MyCode\WebAPIdemoone\demo\bin\Debug\SqlSugar.dll
 D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Model.dll
 D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Interface.dll
 D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Model.pdb
+D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Model.xml
 D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Interface.pdb
 D:\MyCode\WebAPIdemoone\demo\obj\Debug\demo.csprojAssemblyReference.cache
 D:\MyCode\WebAPIdemoone\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
 D:\MyCode\WebAPIdemoone\demo\obj\Debug\demo.csproj.CopyComplete
 D:\MyCode\WebAPIdemoone\demo\obj\Debug\demo.exe
 D:\MyCode\WebAPIdemoone\demo\obj\Debug\demo.pdb
-D:\MyCode\WebAPIdemoone\demo\bin\Debug\WebAPIdemoone.Model.xml

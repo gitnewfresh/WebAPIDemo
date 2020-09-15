@@ -17,9 +17,9 @@ namespace WebAPIdemoone.Model
         }
 
         /// <summary>
-        /// 跳过的记录数
+        /// 页码
         /// </summary>
-        public int? Skip { get; set; }
+        public int index { get; set; }
 
         /// <summary>
         /// 取的记录条数

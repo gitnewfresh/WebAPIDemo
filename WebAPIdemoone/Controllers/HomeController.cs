@@ -10,7 +10,7 @@ namespace WebAPIdemoone.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            
 
             return Redirect("/swagger/ui/index");
         }

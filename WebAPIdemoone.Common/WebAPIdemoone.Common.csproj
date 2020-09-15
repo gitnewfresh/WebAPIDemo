@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EnumHelp\EnumHelp.cs" />
+    <Compile Include="Helper\UtilConvert.cs" />
     <Compile Include="PayEnum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

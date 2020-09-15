@@ -1,0 +1,11 @@
+D:\MyCode\WebAPIdemoone\API.FrameWork\bin\Debug\netstandard2.0\API.FrameWork.deps.json
+D:\MyCode\WebAPIdemoone\API.FrameWork\bin\Debug\netstandard2.0\API.FrameWork.dll
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.csprojAssemblyReference.cache
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.AssemblyInfoInputs.cache
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.AssemblyInfo.cs
+D:\MyCode\WebAPIdemoone\API.FrameWork\bin\Debug\netstandard2.0\API.FrameWork.pdb
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.dll
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.pdb
+D:\MyCode\WebAPIdemoone\API.FrameWork\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\MyCode\WebAPIdemoone\API.FrameWork\bin\Debug\netstandard2.0\System.Security.dll
+D:\MyCode\WebAPIdemoone\API.FrameWork\obj\Debug\netstandard2.0\API.FrameWork.csproj.CopyComplete
